@@ -1,2 +1,6 @@
 Khalil's forth git-file, modifeid in khalilbranch
+<<<<<<< Updated upstream
 Master Branch
+=======
+Branch Merge
+>>>>>>> Stashed changes
