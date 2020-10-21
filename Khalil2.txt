@@ -1,2 +1,6 @@
 Khalil's third git-file
+<<<<<<< HEAD
 Branche merge
+=======
+master Merge
+>>>>>>> master
