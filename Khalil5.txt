@@ -1,3 +1,2 @@
 my sixth git file, Rebase
-
 master merge
